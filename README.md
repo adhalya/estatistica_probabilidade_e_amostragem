@@ -1,6 +1,6 @@
 # # Desafio de Estatística: Probabilidade e Amostragem - WoMakersCode
 
-Desafio proposto pelo *Bootcamp Data Analytics* da WoMakersCode, onde tem por objetivo realizar uma análise exploratória dos dados contidos no arquivo populacao_brasileira.csv através da linguagem **python** e de bibliotecas como: `pandas`, `seaborn`, `matplotlib` e `scipy.stats`. 👩‍💻
+Desafio proposto pelo *Bootcamp Data Analytics* da WoMakersCode, onde tem por objetivo realizar uma análise probabilística dos dados contidos no arquivo populacao_brasileira.csv através da linguagem **python** e de bibliotecas como: `pandas`, `seaborn`, `matplotlib` e `scipy.stats`. 👩‍💻
 
 ## Probabilidade e Amostragem
 Ambos estão presentes na Inferência Estatística. A *probabilidade* é importante para a análise de dados pois é através dela que podemos levantar hipóteses, ou seja, a "chance" de eventos ocorrerem, enquanto que a *amostragem* está relacionada às técnicas de seleção de partes de uma população.
